@@ -131,7 +131,7 @@ public class HelloController {
 
 
 ## Output:
-<img width="921" height="408" alt="image" src="https://github.com/user-attachments/assets/fe552b84-1dbc-4b72-9133-47d57b3a0b28" />
+<img width="960" height="637" alt="image" src="https://github.com/user-attachments/assets/be092be8-4b20-4dc2-8e5b-edb67a8d7a6b" />
 
 ## Result;
 Thus,the Simple Web Server using Spring Boot that can handle basic HTTP requests and return appropriate responses through RESTful endpoints implemented and executed successfully.
